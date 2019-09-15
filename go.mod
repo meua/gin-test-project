@@ -3,6 +3,7 @@ module github.com/meua/gin-test-project
 go 1.12
 
 require (
+	github.com/garyburd/redigo v1.6.0
 	github.com/gin-gonic/gin v1.4.0
 	github.com/go-playground/locales v0.12.1
 	github.com/go-playground/universal-translator v0.16.0
